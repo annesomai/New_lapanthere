@@ -818,11 +818,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/travail-agence-design-web-min.png");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/collaboration-aide-entreprises-locales-min.png");
 }
 
 @media (max-width: 1024px) {
@@ -1026,6 +1026,14 @@ h4 {
         width: 180px;
         height: 320px;
     }
+}
+
+.col-sm-6
+{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
 }
 
 @media (max-width: 400px) {
